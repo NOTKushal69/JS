@@ -32,14 +32,19 @@
 
 
 
-obj={
-  name:"Kushal",
-  age:16
-};
-// 
-Object.freeze(obj)
-// console.log(typeof(Object.keys(obj)));
-obj['name']="Bishal";
+// obj={
+//   name:"Kushal",
+//   age:16
+// };
+// // 
+// Object.freeze(obj)
+// // console.log(typeof(Object.keys(obj)));
+// obj['name']="Bishal";
 
 
-console.log(obj);
+// console.log(obj);
+
+
+
+
+
